@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "https://www.istockphoto.com/vector/flag-of-india-gm472317739-24334342",
-    "iconimage": "https://www.istockphoto.com/vector/flag-of-india-gm472317739-24334342",
+    "image": "/assets/istockphoto-1471401435-612x612.jpg",
+    "iconimage": "/assets/istockphoto-1471401435-612x612.jpg",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
