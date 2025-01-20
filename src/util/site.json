@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Findia-flag&psig=AOvVaw3UmMHYzqB6DLUYBngprT2F&ust=1737475665962000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjr9a_XhIsDFQAAAAAdAAAAABAE",
-    "iconimage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Findia-flag&psig=AOvVaw3UmMHYzqB6DLUYBngprT2F&ust=1737475665962000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjr9a_XhIsDFQAAAAAdAAAAABAE",
+    "image": "https://www.istockphoto.com/vector/flag-of-india-gm472317739-24334342",
+    "iconimage": "https://www.istockphoto.com/vector/flag-of-india-gm472317739-24334342",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
